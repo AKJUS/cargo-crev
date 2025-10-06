@@ -33,7 +33,7 @@ atty = "0.2.14"
 curl-sys = { version = "0.4", features = ["force-system-lib-on-osx"] }
 cargo.workspace = true
 cargo-platform = "0.3.0"
-crates_io_api = "0.11.0"
+crates_io_api = "0.12.0"
 crossbeam = "0.8.2"
 chrono.workspace = true
 env_logger = { version = "0.11.3", default-features = false, features = ["auto-color", "humantime"] }
